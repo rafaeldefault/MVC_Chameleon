@@ -79,8 +79,6 @@ c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\t7ce9r4p2u-2z0n
 c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\c49ooq78wm-muycvpuwrr.gz
 c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\5rqse4825q-87fc7y1x7t.gz
 c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\qz477kbcn4-mlv21k5csn.gz
-c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\rrf0zl5jmy-cxbemue422.gz
-c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\oxcxyinlm0-cxbemue422.gz
 c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\staticwebassets.build.json
 c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\staticwebassets.development.json
 c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -95,3 +93,7 @@ c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\refint\MVC_Chameleon.dll
 c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\MVC_Chameleon.pdb
 c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\MVC_Chameleon.genruntimeconfig.cache
 c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\ref\MVC_Chameleon.dll
+c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\MVC_Chameleon.sourcelink.json
+c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\rrf0zl5jmy-ccj5kdxe6e.gz
+c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\oxcxyinlm0-ccj5kdxe6e.gz
+c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\cenr95mhun-m8iabpxfth.gz

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iUgcguG0Aa+rqsyfw9/Ag58+AZAFsF0zPXF1ajTopuA=",
+  "Hash": "c7NPo358VdPX/X97EZtMH7KbeHG1q3W6lLnMB2sCTp8=",
   "Source": "MVC_Chameleon",
   "BasePath": "_content/MVC_Chameleon",
   "Mode": "Default",
@@ -437,6 +437,27 @@
       "OriginalItemSpec": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
+      "Identity": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\cenr95mhun-m8iabpxfth.gz",
+      "SourceId": "MVC_Chameleon",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MVC_Chameleon",
+      "RelativePath": "css/layout.style#[.{fingerprint=m8iabpxfth}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\css\\layout.style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "7ofxg0ld9o",
+      "Integrity": "l23wSffqTgpWgBTyaukhkcrm0O2cgcgCFo+hAzX/oMU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\css\\layout.style.css"
+    },
+    {
       "Identity": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\cqh16myrfz-63fj8s7r0e.gz",
       "SourceId": "MVC_Chameleon",
       "SourceType": "Discovered",
@@ -836,12 +857,12 @@
       "OriginalItemSpec": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\oxcxyinlm0-cxbemue422.gz",
+      "Identity": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\oxcxyinlm0-ccj5kdxe6e.gz",
       "SourceId": "MVC_Chameleon",
       "SourceType": "Computed",
       "ContentRoot": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MVC_Chameleon",
-      "RelativePath": "MVC_Chameleon#[.{fingerprint=cxbemue422}]!.bundle.scp.css.gz",
+      "RelativePath": "MVC_Chameleon#[.{fingerprint=ccj5kdxe6e}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -850,8 +871,8 @@
       "RelatedAsset": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MVC_Chameleon.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wbace6y8nd",
-      "Integrity": "TIW8gYLz3zwRW4FvZwy3iBQAc0usCnnkc9ZhiDOGXKU=",
+      "Fingerprint": "z3z7gnqxwm",
+      "Integrity": "gabVk37IQYPl3CqlVKYtzqMFlpwzPi+Pth88nzg2dzM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MVC_Chameleon.bundle.scp.css"
@@ -1025,12 +1046,12 @@
       "OriginalItemSpec": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\rrf0zl5jmy-cxbemue422.gz",
+      "Identity": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\rrf0zl5jmy-ccj5kdxe6e.gz",
       "SourceId": "MVC_Chameleon",
       "SourceType": "Computed",
       "ContentRoot": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MVC_Chameleon",
-      "RelativePath": "MVC_Chameleon#[.{fingerprint=cxbemue422}]?.styles.css.gz",
+      "RelativePath": "MVC_Chameleon#[.{fingerprint=ccj5kdxe6e}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -1039,8 +1060,8 @@
       "RelatedAsset": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MVC_Chameleon.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wbace6y8nd",
-      "Integrity": "TIW8gYLz3zwRW4FvZwy3iBQAc0usCnnkc9ZhiDOGXKU=",
+      "Fingerprint": "z3z7gnqxwm",
+      "Integrity": "gabVk37IQYPl3CqlVKYtzqMFlpwzPi+Pth88nzg2dzM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MVC_Chameleon.styles.css"
@@ -1375,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "cxbemue422",
-      "Integrity": "4CEDvIbBoI9lbWlLxy2X9cxDgvq2QJrNpdxFrJBP/jU=",
+      "Fingerprint": "ccj5kdxe6e",
+      "Integrity": "LGn13NAAf0oV4QxYYcKocfOWNr0TUNsxHRFGKDjSSzE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MVC_Chameleon.styles.css"
@@ -1396,11 +1417,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "cxbemue422",
-      "Integrity": "4CEDvIbBoI9lbWlLxy2X9cxDgvq2QJrNpdxFrJBP/jU=",
+      "Fingerprint": "ccj5kdxe6e",
+      "Integrity": "LGn13NAAf0oV4QxYYcKocfOWNr0TUNsxHRFGKDjSSzE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MVC_Chameleon.bundle.scp.css"
+    },
+    {
+      "Identity": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\css\\layout.style.css",
+      "SourceId": "MVC_Chameleon",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\",
+      "BasePath": "_content/MVC_Chameleon",
+      "RelativePath": "css/layout.style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m8iabpxfth",
+      "Integrity": "1jnzbAab2oZC1VoQTnnpIeNkgnlYN0nHY74JGIET5MA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\layout.style.css"
     },
     {
       "Identity": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\css\\site.css",
@@ -2727,6 +2769,304 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "css/layout.style.css",
+      "AssetFile": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\cenr95mhun-m8iabpxfth.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002105263158"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "474"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l23wSffqTgpWgBTyaukhkcrm0O2cgcgCFo+hAzX/oMU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 12:21:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1jnzbAab2oZC1VoQTnnpIeNkgnlYN0nHY74JGIET5MA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1jnzbAab2oZC1VoQTnnpIeNkgnlYN0nHY74JGIET5MA="
+        }
+      ]
+    },
+    {
+      "Route": "css/layout.style.css",
+      "AssetFile": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\css\\layout.style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1012"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1jnzbAab2oZC1VoQTnnpIeNkgnlYN0nHY74JGIET5MA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 12:21:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1jnzbAab2oZC1VoQTnnpIeNkgnlYN0nHY74JGIET5MA="
+        }
+      ]
+    },
+    {
+      "Route": "css/layout.style.css.gz",
+      "AssetFile": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\cenr95mhun-m8iabpxfth.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "474"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l23wSffqTgpWgBTyaukhkcrm0O2cgcgCFo+hAzX/oMU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 12:21:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l23wSffqTgpWgBTyaukhkcrm0O2cgcgCFo+hAzX/oMU="
+        }
+      ]
+    },
+    {
+      "Route": "css/layout.style.m8iabpxfth.css",
+      "AssetFile": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\cenr95mhun-m8iabpxfth.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002105263158"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "474"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l23wSffqTgpWgBTyaukhkcrm0O2cgcgCFo+hAzX/oMU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 12:21:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1jnzbAab2oZC1VoQTnnpIeNkgnlYN0nHY74JGIET5MA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m8iabpxfth"
+        },
+        {
+          "Name": "label",
+          "Value": "css/layout.style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1jnzbAab2oZC1VoQTnnpIeNkgnlYN0nHY74JGIET5MA="
+        }
+      ]
+    },
+    {
+      "Route": "css/layout.style.m8iabpxfth.css",
+      "AssetFile": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\css\\layout.style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1012"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1jnzbAab2oZC1VoQTnnpIeNkgnlYN0nHY74JGIET5MA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 12:21:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m8iabpxfth"
+        },
+        {
+          "Name": "label",
+          "Value": "css/layout.style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1jnzbAab2oZC1VoQTnnpIeNkgnlYN0nHY74JGIET5MA="
+        }
+      ]
+    },
+    {
+      "Route": "css/layout.style.m8iabpxfth.css.gz",
+      "AssetFile": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\cenr95mhun-m8iabpxfth.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "474"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l23wSffqTgpWgBTyaukhkcrm0O2cgcgCFo+hAzX/oMU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 12:21:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m8iabpxfth"
+        },
+        {
+          "Name": "label",
+          "Value": "css/layout.style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l23wSffqTgpWgBTyaukhkcrm0O2cgcgCFo+hAzX/oMU="
+        }
+      ]
+    },
     {
       "Route": "css/site.b9sayid5wm.css",
       "AssetFile": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\22zhjm90ej-b9sayid5wm.gz",
@@ -21287,12 +21627,12 @@
     },
     {
       "Route": "MVC_Chameleon.bundle.scp.css",
-      "AssetFile": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\oxcxyinlm0-cxbemue422.gz",
+      "AssetFile": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\oxcxyinlm0-ccj5kdxe6e.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001834862385"
+          "Quality": "0.011111111111"
         }
       ],
       "ResponseHeaders": [
@@ -21302,15 +21642,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "544"
+          "Value": "89"
         },
         {
           "Name": "ETag",
-          "Value": "\"TIW8gYLz3zwRW4FvZwy3iBQAc0usCnnkc9ZhiDOGXKU=\""
+          "Value": "\"gabVk37IQYPl3CqlVKYtzqMFlpwzPi+Pth88nzg2dzM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 12:02:04 GMT"
+          "Value": "Wed, 05 Mar 2025 12:19:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21330,13 +21670,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4CEDvIbBoI9lbWlLxy2X9cxDgvq2QJrNpdxFrJBP/jU=\""
+          "Value": "W/\"LGn13NAAf0oV4QxYYcKocfOWNr0TUNsxHRFGKDjSSzE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4CEDvIbBoI9lbWlLxy2X9cxDgvq2QJrNpdxFrJBP/jU="
+          "Value": "sha256-LGn13NAAf0oV4QxYYcKocfOWNr0TUNsxHRFGKDjSSzE="
         }
       ]
     },
@@ -21351,7 +21691,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1131"
+          "Value": "69"
         },
         {
           "Name": "Content-Type",
@@ -21359,11 +21699,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4CEDvIbBoI9lbWlLxy2X9cxDgvq2QJrNpdxFrJBP/jU=\""
+          "Value": "\"LGn13NAAf0oV4QxYYcKocfOWNr0TUNsxHRFGKDjSSzE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 12:02:04 GMT"
+          "Value": "Wed, 05 Mar 2025 12:19:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21373,13 +21713,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4CEDvIbBoI9lbWlLxy2X9cxDgvq2QJrNpdxFrJBP/jU="
+          "Value": "sha256-LGn13NAAf0oV4QxYYcKocfOWNr0TUNsxHRFGKDjSSzE="
         }
       ]
     },
     {
       "Route": "MVC_Chameleon.bundle.scp.css.gz",
-      "AssetFile": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\oxcxyinlm0-cxbemue422.gz",
+      "AssetFile": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\oxcxyinlm0-ccj5kdxe6e.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21388,7 +21728,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "544"
+          "Value": "89"
         },
         {
           "Name": "Content-Type",
@@ -21396,11 +21736,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TIW8gYLz3zwRW4FvZwy3iBQAc0usCnnkc9ZhiDOGXKU=\""
+          "Value": "\"gabVk37IQYPl3CqlVKYtzqMFlpwzPi+Pth88nzg2dzM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 12:02:04 GMT"
+          "Value": "Wed, 05 Mar 2025 12:19:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21418,18 +21758,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-TIW8gYLz3zwRW4FvZwy3iBQAc0usCnnkc9ZhiDOGXKU="
+          "Value": "sha256-gabVk37IQYPl3CqlVKYtzqMFlpwzPi+Pth88nzg2dzM="
         }
       ]
     },
     {
-      "Route": "MVC_Chameleon.cxbemue422.bundle.scp.css",
-      "AssetFile": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\oxcxyinlm0-cxbemue422.gz",
+      "Route": "MVC_Chameleon.ccj5kdxe6e.bundle.scp.css",
+      "AssetFile": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\oxcxyinlm0-ccj5kdxe6e.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001834862385"
+          "Quality": "0.011111111111"
         }
       ],
       "ResponseHeaders": [
@@ -21439,15 +21779,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "544"
+          "Value": "89"
         },
         {
           "Name": "ETag",
-          "Value": "\"TIW8gYLz3zwRW4FvZwy3iBQAc0usCnnkc9ZhiDOGXKU=\""
+          "Value": "\"gabVk37IQYPl3CqlVKYtzqMFlpwzPi+Pth88nzg2dzM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 12:02:04 GMT"
+          "Value": "Wed, 05 Mar 2025 12:19:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21467,13 +21807,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4CEDvIbBoI9lbWlLxy2X9cxDgvq2QJrNpdxFrJBP/jU=\""
+          "Value": "W/\"LGn13NAAf0oV4QxYYcKocfOWNr0TUNsxHRFGKDjSSzE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cxbemue422"
+          "Value": "ccj5kdxe6e"
         },
         {
           "Name": "label",
@@ -21481,12 +21821,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4CEDvIbBoI9lbWlLxy2X9cxDgvq2QJrNpdxFrJBP/jU="
+          "Value": "sha256-LGn13NAAf0oV4QxYYcKocfOWNr0TUNsxHRFGKDjSSzE="
         }
       ]
     },
     {
-      "Route": "MVC_Chameleon.cxbemue422.bundle.scp.css",
+      "Route": "MVC_Chameleon.ccj5kdxe6e.bundle.scp.css",
       "AssetFile": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MVC_Chameleon.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21496,7 +21836,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1131"
+          "Value": "69"
         },
         {
           "Name": "Content-Type",
@@ -21504,11 +21844,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4CEDvIbBoI9lbWlLxy2X9cxDgvq2QJrNpdxFrJBP/jU=\""
+          "Value": "\"LGn13NAAf0oV4QxYYcKocfOWNr0TUNsxHRFGKDjSSzE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 12:02:04 GMT"
+          "Value": "Wed, 05 Mar 2025 12:19:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21518,7 +21858,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cxbemue422"
+          "Value": "ccj5kdxe6e"
         },
         {
           "Name": "label",
@@ -21526,13 +21866,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4CEDvIbBoI9lbWlLxy2X9cxDgvq2QJrNpdxFrJBP/jU="
+          "Value": "sha256-LGn13NAAf0oV4QxYYcKocfOWNr0TUNsxHRFGKDjSSzE="
         }
       ]
     },
     {
-      "Route": "MVC_Chameleon.cxbemue422.bundle.scp.css.gz",
-      "AssetFile": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\oxcxyinlm0-cxbemue422.gz",
+      "Route": "MVC_Chameleon.ccj5kdxe6e.bundle.scp.css.gz",
+      "AssetFile": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\oxcxyinlm0-ccj5kdxe6e.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21541,7 +21881,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "544"
+          "Value": "89"
         },
         {
           "Name": "Content-Type",
@@ -21549,11 +21889,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TIW8gYLz3zwRW4FvZwy3iBQAc0usCnnkc9ZhiDOGXKU=\""
+          "Value": "\"gabVk37IQYPl3CqlVKYtzqMFlpwzPi+Pth88nzg2dzM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 12:02:04 GMT"
+          "Value": "Wed, 05 Mar 2025 12:19:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21571,7 +21911,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cxbemue422"
+          "Value": "ccj5kdxe6e"
         },
         {
           "Name": "label",
@@ -21579,18 +21919,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-TIW8gYLz3zwRW4FvZwy3iBQAc0usCnnkc9ZhiDOGXKU="
+          "Value": "sha256-gabVk37IQYPl3CqlVKYtzqMFlpwzPi+Pth88nzg2dzM="
         }
       ]
     },
     {
-      "Route": "MVC_Chameleon.cxbemue422.styles.css",
-      "AssetFile": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\rrf0zl5jmy-cxbemue422.gz",
+      "Route": "MVC_Chameleon.ccj5kdxe6e.styles.css",
+      "AssetFile": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\rrf0zl5jmy-ccj5kdxe6e.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001834862385"
+          "Quality": "0.011111111111"
         }
       ],
       "ResponseHeaders": [
@@ -21600,15 +21940,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "544"
+          "Value": "89"
         },
         {
           "Name": "ETag",
-          "Value": "\"TIW8gYLz3zwRW4FvZwy3iBQAc0usCnnkc9ZhiDOGXKU=\""
+          "Value": "\"gabVk37IQYPl3CqlVKYtzqMFlpwzPi+Pth88nzg2dzM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 12:02:04 GMT"
+          "Value": "Wed, 05 Mar 2025 12:19:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21628,13 +21968,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4CEDvIbBoI9lbWlLxy2X9cxDgvq2QJrNpdxFrJBP/jU=\""
+          "Value": "W/\"LGn13NAAf0oV4QxYYcKocfOWNr0TUNsxHRFGKDjSSzE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cxbemue422"
+          "Value": "ccj5kdxe6e"
         },
         {
           "Name": "label",
@@ -21642,12 +21982,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4CEDvIbBoI9lbWlLxy2X9cxDgvq2QJrNpdxFrJBP/jU="
+          "Value": "sha256-LGn13NAAf0oV4QxYYcKocfOWNr0TUNsxHRFGKDjSSzE="
         }
       ]
     },
     {
-      "Route": "MVC_Chameleon.cxbemue422.styles.css",
+      "Route": "MVC_Chameleon.ccj5kdxe6e.styles.css",
       "AssetFile": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MVC_Chameleon.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21657,7 +21997,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1131"
+          "Value": "69"
         },
         {
           "Name": "Content-Type",
@@ -21665,11 +22005,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4CEDvIbBoI9lbWlLxy2X9cxDgvq2QJrNpdxFrJBP/jU=\""
+          "Value": "\"LGn13NAAf0oV4QxYYcKocfOWNr0TUNsxHRFGKDjSSzE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 12:02:04 GMT"
+          "Value": "Wed, 05 Mar 2025 12:19:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21679,7 +22019,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cxbemue422"
+          "Value": "ccj5kdxe6e"
         },
         {
           "Name": "label",
@@ -21687,13 +22027,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4CEDvIbBoI9lbWlLxy2X9cxDgvq2QJrNpdxFrJBP/jU="
+          "Value": "sha256-LGn13NAAf0oV4QxYYcKocfOWNr0TUNsxHRFGKDjSSzE="
         }
       ]
     },
     {
-      "Route": "MVC_Chameleon.cxbemue422.styles.css.gz",
-      "AssetFile": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\rrf0zl5jmy-cxbemue422.gz",
+      "Route": "MVC_Chameleon.ccj5kdxe6e.styles.css.gz",
+      "AssetFile": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\rrf0zl5jmy-ccj5kdxe6e.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21702,7 +22042,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "544"
+          "Value": "89"
         },
         {
           "Name": "Content-Type",
@@ -21710,11 +22050,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TIW8gYLz3zwRW4FvZwy3iBQAc0usCnnkc9ZhiDOGXKU=\""
+          "Value": "\"gabVk37IQYPl3CqlVKYtzqMFlpwzPi+Pth88nzg2dzM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 12:02:04 GMT"
+          "Value": "Wed, 05 Mar 2025 12:19:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21732,7 +22072,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cxbemue422"
+          "Value": "ccj5kdxe6e"
         },
         {
           "Name": "label",
@@ -21740,18 +22080,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-TIW8gYLz3zwRW4FvZwy3iBQAc0usCnnkc9ZhiDOGXKU="
+          "Value": "sha256-gabVk37IQYPl3CqlVKYtzqMFlpwzPi+Pth88nzg2dzM="
         }
       ]
     },
     {
       "Route": "MVC_Chameleon.styles.css",
-      "AssetFile": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\rrf0zl5jmy-cxbemue422.gz",
+      "AssetFile": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\rrf0zl5jmy-ccj5kdxe6e.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001834862385"
+          "Quality": "0.011111111111"
         }
       ],
       "ResponseHeaders": [
@@ -21761,15 +22101,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "544"
+          "Value": "89"
         },
         {
           "Name": "ETag",
-          "Value": "\"TIW8gYLz3zwRW4FvZwy3iBQAc0usCnnkc9ZhiDOGXKU=\""
+          "Value": "\"gabVk37IQYPl3CqlVKYtzqMFlpwzPi+Pth88nzg2dzM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 12:02:04 GMT"
+          "Value": "Wed, 05 Mar 2025 12:19:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21789,13 +22129,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4CEDvIbBoI9lbWlLxy2X9cxDgvq2QJrNpdxFrJBP/jU=\""
+          "Value": "W/\"LGn13NAAf0oV4QxYYcKocfOWNr0TUNsxHRFGKDjSSzE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4CEDvIbBoI9lbWlLxy2X9cxDgvq2QJrNpdxFrJBP/jU="
+          "Value": "sha256-LGn13NAAf0oV4QxYYcKocfOWNr0TUNsxHRFGKDjSSzE="
         }
       ]
     },
@@ -21810,7 +22150,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1131"
+          "Value": "69"
         },
         {
           "Name": "Content-Type",
@@ -21818,11 +22158,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4CEDvIbBoI9lbWlLxy2X9cxDgvq2QJrNpdxFrJBP/jU=\""
+          "Value": "\"LGn13NAAf0oV4QxYYcKocfOWNr0TUNsxHRFGKDjSSzE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 12:02:04 GMT"
+          "Value": "Wed, 05 Mar 2025 12:19:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21832,13 +22172,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4CEDvIbBoI9lbWlLxy2X9cxDgvq2QJrNpdxFrJBP/jU="
+          "Value": "sha256-LGn13NAAf0oV4QxYYcKocfOWNr0TUNsxHRFGKDjSSzE="
         }
       ]
     },
     {
       "Route": "MVC_Chameleon.styles.css.gz",
-      "AssetFile": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\rrf0zl5jmy-cxbemue422.gz",
+      "AssetFile": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\compressed\\rrf0zl5jmy-ccj5kdxe6e.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21847,7 +22187,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "544"
+          "Value": "89"
         },
         {
           "Name": "Content-Type",
@@ -21855,11 +22195,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TIW8gYLz3zwRW4FvZwy3iBQAc0usCnnkc9ZhiDOGXKU=\""
+          "Value": "\"gabVk37IQYPl3CqlVKYtzqMFlpwzPi+Pth88nzg2dzM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 12:02:04 GMT"
+          "Value": "Wed, 05 Mar 2025 12:19:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21877,7 +22217,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-TIW8gYLz3zwRW4FvZwy3iBQAc0usCnnkc9ZhiDOGXKU="
+          "Value": "sha256-gabVk37IQYPl3CqlVKYtzqMFlpwzPi+Pth88nzg2dzM="
         }
       ]
     }

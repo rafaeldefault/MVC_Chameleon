@@ -2,7 +2,11 @@
   "Files": [
     {
       "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MVC_Chameleon.bundle.scp.css",
-      "PackagePath": "staticwebassets\\MVC_Chameleon.cxbemue422.bundle.scp.css"
+      "PackagePath": "staticwebassets\\MVC_Chameleon.ccj5kdxe6e.bundle.scp.css"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\css\\layout.style.css",
+      "PackagePath": "staticwebassets\\css\\layout.style.css"
     },
     {
       "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\css\\site.css",
