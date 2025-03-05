@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
       "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
@@ -2049,8 +2053,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\AUTHORS.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\AUTHORS.txt"
+    },
+    {
       "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\README.md",
+      "PackagePath": "staticwebassets\\lib\\jquery\\README.md"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\jquery\\bower.json"
     },
     {
       "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\dist\\jquery.js",
@@ -2075,6 +2091,466 @@
     {
       "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\package.json",
+      "PackagePath": "staticwebassets\\lib\\jquery\\package.json"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\ajax.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\ajax\\jsonp.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\jsonp.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\ajax\\load.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\load.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\ajax\\script.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\script.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\ajax\\var\\location.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\var\\location.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\ajax\\var\\nonce.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\var\\nonce.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\ajax\\var\\rquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\var\\rquery.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\ajax\\xhr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\xhr.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\attributes.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\attributes\\attr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes\\attr.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\attributes\\classes.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes\\classes.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\attributes\\prop.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes\\prop.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\attributes\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes\\support.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\attributes\\val.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes\\val.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\callbacks.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\callbacks.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\core.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\core\\DOMEval.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\DOMEval.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\core\\access.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\access.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\core\\camelCase.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\camelCase.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\core\\init.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\init.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\core\\isAttached.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\isAttached.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\core\\nodeName.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\nodeName.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\core\\parseHTML.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\parseHTML.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\core\\parseXML.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\parseXML.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\core\\ready-no-deferred.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\ready-no-deferred.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\core\\ready.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\ready.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\core\\readyException.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\readyException.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\core\\stripAndCollapse.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\stripAndCollapse.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\core\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\support.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\core\\toType.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\toType.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\core\\var\\rhtml.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\var\\rhtml.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\core\\var\\rsingleTag.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\var\\rsingleTag.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\css.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\css\\addGetHookIf.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\addGetHookIf.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\css\\adjustCSS.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\adjustCSS.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\css\\curCSS.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\curCSS.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\css\\finalPropName.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\finalPropName.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\css\\hiddenVisibleSelectors.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\hiddenVisibleSelectors.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\css\\showHide.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\showHide.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\css\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\support.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\css\\var\\cssExpand.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\cssExpand.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\css\\var\\getStyles.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\getStyles.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\css\\var\\isHiddenWithinTree.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\isHiddenWithinTree.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\css\\var\\rboxStyle.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\rboxStyle.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\css\\var\\rcustomProp.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\rcustomProp.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\css\\var\\rnumnonpx.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\rnumnonpx.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\css\\var\\swap.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\swap.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\data.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\data.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\data\\Data.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\data\\Data.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\data\\var\\acceptData.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\data\\var\\acceptData.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\data\\var\\dataPriv.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\data\\var\\dataPriv.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\data\\var\\dataUser.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\data\\var\\dataUser.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\deferred.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\deferred.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\deferred\\exceptionHook.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\deferred\\exceptionHook.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\deprecated.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\deprecated.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\deprecated\\ajax-event-alias.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\deprecated\\ajax-event-alias.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\deprecated\\event.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\deprecated\\event.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\dimensions.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\dimensions.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\effects.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\effects.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\effects\\Tween.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\effects\\Tween.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\effects\\animatedSelector.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\effects\\animatedSelector.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\event.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\event.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\event\\trigger.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\event\\trigger.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\exports\\amd.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\exports\\amd.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\exports\\global.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\exports\\global.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\jquery.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\manipulation.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\manipulation\\_evalUrl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\_evalUrl.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\manipulation\\buildFragment.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\buildFragment.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\manipulation\\getAll.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\getAll.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\manipulation\\setGlobalEval.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\setGlobalEval.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\manipulation\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\support.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\manipulation\\var\\rscriptType.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\var\\rscriptType.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\manipulation\\var\\rtagName.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\var\\rtagName.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\manipulation\\wrapMap.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\wrapMap.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\offset.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\offset.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\queue.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\queue.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\queue\\delay.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\queue\\delay.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\selector-native.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\selector-native.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\selector.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\selector.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\selector\\contains.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\selector\\contains.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\selector\\escapeSelector.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\selector\\escapeSelector.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\serialize.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\serialize.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\traversing.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\traversing.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\traversing\\findFilter.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\traversing\\findFilter.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\traversing\\var\\dir.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\traversing\\var\\dir.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\traversing\\var\\rneedsContext.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\traversing\\var\\rneedsContext.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\traversing\\var\\siblings.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\traversing\\var\\siblings.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\var\\ObjectFunctionString.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\ObjectFunctionString.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\var\\arr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\arr.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\var\\class2type.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\class2type.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\var\\document.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\document.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\var\\documentElement.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\documentElement.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\var\\flat.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\flat.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\var\\fnToString.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\fnToString.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\var\\getProto.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\getProto.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\var\\hasOwn.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\hasOwn.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\var\\indexOf.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\indexOf.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\var\\isFunction.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\isFunction.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\var\\isWindow.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\isWindow.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\var\\pnum.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\pnum.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\var\\pop.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\pop.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\var\\push.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\push.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\var\\rcheckableType.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\rcheckableType.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\var\\rcssNum.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\rcssNum.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\var\\rnothtmlwhite.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\rnothtmlwhite.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\var\\rtrimCSS.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\rtrimCSS.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\var\\slice.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\slice.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\var\\sort.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\sort.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\var\\splice.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\splice.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\var\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\support.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\var\\toString.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\toString.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\var\\whitespace.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\whitespace.js"
+    },
+    {
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\lib\\jquery\\src\\wrap.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\wrap.js"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MVC_Chameleon.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
