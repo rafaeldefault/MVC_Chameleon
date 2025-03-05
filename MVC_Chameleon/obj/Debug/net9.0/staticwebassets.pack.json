@@ -13,8 +13,8 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\img\\logo.png",
-      "PackagePath": "staticwebassets\\img\\logo.png"
+      "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
       "Id": "c:\\Codes\\MVC_Chameleon\\MVC_Chameleon\\wwwroot\\js\\site.js",

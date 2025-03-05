@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVC_Chameleon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa82e3d4adccc8b69f8969acddf8be7c616d53f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c08bfb02cfdeecd954dcdfd9fc504e6667243649")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVC_Chameleon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVC_Chameleon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
