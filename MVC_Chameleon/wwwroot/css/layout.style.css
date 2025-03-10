@@ -104,30 +104,30 @@ body {
   background-color: var(--slider-circle-color);
   transition: 0.4s;
   border-radius: 50%;
-  background-color: rgb(6, 8, 34);
+  background-color: rgb(150, 150, 150);
 }
 
 /* Quando ativado */
 input:checked + .slider {
-  background-color: #0e7c97;
+  background-color: #cccccc;
 }
 
 input + .slider {
-  background-color: rgb(13, 20, 87);
+  background-color: rgb(80, 79, 79);
 }
 
 /* Quando o botão é ativado, move o círculo */
 input:checked + .slider:before {
   transform: translateX(26px);
-  background-color: #0c52944f;
+  background-color: #8b8b8b;
 }
 
 /* Ícones de lua e sol */
 .slider:after {
   content: "🌙";
   position: absolute;
-  left: 8px;
-  top: 50%;
+  left: 5px;
+  top: 49%;
   transform: translateY(-50%);
   font-size: 18px;
   opacity: 1;
@@ -136,6 +136,6 @@ input:checked + .slider:before {
 
 input:checked + .slider:after {
   content: "☀️";
-  left: 36px;
+  left: 32px;
 }
 
