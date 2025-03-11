@@ -1,21 +1,48 @@
-.icon-enviar{
+.btn-enviar {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    padding: 0.5rem 1.8rem;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+.btn-enviar .icon-enviar {
     position: absolute;
-    transition: all 0.2s;
-    transform: translate(70px);
+    right: -30px; /* Inicialmente escondido */
+    opacity: 0;
+    transition: all 0.3s ease;
+    font-size: 20px;
 }
 
-button:hover{
-    cursor: pointer;
-    background: linear-gradient();
-    transition: all 0.2s;
-}
-
-button:hover > div{
-    transform: translateX(-20px);
-    cursor: pointer;
-}
-
-button:hover > .icon{
+.btn-enviar:hover .icon-enviar {
+    right: 10px; /* Move para perto do texto */
     opacity: 1;
-    transform: translate(30px);
+}
+
+.btn-enviar:hover .text {
+    transform: translateX(-10px); /* Move levemente para a esquerda */
+}
+
+.btn-enviar:active .icon-enviar {
+    animation: enviarIcone 0.5s forwards;
+}
+
+.btn-enviar:active .text {
+    animation: resetTexto 0.5s forwards;
+}
+
+/* Animação ao clicar */
+@keyframes enviarIcone {
+    0% { right: 10px; }
+    50% { right: -30px; opacity: 0; }
+    100% { right: -30px; opacity: 0; }
+}
+
+@keyframes resetTexto {
+    0% { transform: translateX(-10px); }
+    50% { transform: translateX(0px); }
+    100% { transform: translateX(0px); }
 }

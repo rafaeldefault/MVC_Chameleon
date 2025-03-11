@@ -17,7 +17,6 @@ c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\MVC_Chameleon.RazorAssembl
 c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\scopedcss\bundle\MVC_Chameleon.styles.css
 c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\22zhjm90ej-b9sayid5wm.gz
 c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\ma26qizg87-61n19gt1b8.gz
-c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\pf44wui2v6-xtxxf3hu2r.gz
 c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\jad3ndn4o1-47otxtyo56.gz
 c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\80xaln8mbr-4v8eqarkd7.gz
 c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\6n2pcc2ovz-356vix0kms.gz
@@ -442,7 +441,6 @@ c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\0makr33k1u-037e
 c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\2gctzqghwu-etwjw5eufw.gz
 c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\5m1upbhqp3-i0z0fr9ix5.gz
 c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\w4y3pd3d0o-9cwhwpbzkp.gz
-c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\ikww57h0a2-jig37og8js.gz
 c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\xbljmcdywd-0gvitdch0g.gz
 c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\v3dcw10t76-ho0d1k5s6r.gz
 c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\n3bubmwkcp-4udlh72t27.gz
@@ -2499,5 +2497,7 @@ c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\7yvdp6xh35-cj4o
 c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\2xhvdjpv0m-tpa8tcwxyn.gz
 c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\kz6kgdv1bc-m8m8wq5h1n.gz
 c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\3cicejuppr-9syqgarn6s.gz
-c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\cenr95mhun-eyyq6rz8rh.gz
 c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\i72te0e2wg-71ce1slghc.gz
+c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\cenr95mhun-jcwgfxpivr.gz
+c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\pf44wui2v6-dvfcvjwtig.gz
+c:\Codes\MVC_Chameleon\MVC_Chameleon\obj\Debug\net9.0\compressed\ikww57h0a2-w5sjq8x3hn.gz
